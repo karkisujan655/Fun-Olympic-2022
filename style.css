@@ -1,0 +1,115 @@
+
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+ 
+.top {
+   background: #F1A661
+;
+   
+   line-height: 35px;
+   
+   }
+.top a{
+   text-decoration: none;
+   color: #1C3879; 
+}
+
+button:hover{
+   background: #1C3879;
+   color: #fff;
+   font-size: 20px;
+}
+
+.nav{
+   background-color: #1C3879;
+   min-height: 8vh;
+   
+}
+
+.navbar{
+   padding: 0px;
+}
+.nav a{
+   color: #fff;
+   font-size: 18px;
+   text-transform: uppercase;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.nav img {
+   width: 230px;
+   height: 125px;
+}
+
+.nav ul{
+   margin-left: 25%;
+}
+
+ul li{
+   padding: 0px 20px;
+   
+}
+a.nav-link:hover{
+   color: rgb(180, 161, 161);
+   font-size: 15px;
+}
+nav a:hover{
+   color: #fff;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+   color: #fff;
+}
+
+.navbar-nav .nav-link.active:hover {
+   color: rgb(180, 161, 161);
+}
+
+
+
+
+
+.row h1{
+   color: #1C3879;
+   text-decoration: underline;
+}
+.card img{
+   max-height: 30vh;
+   object-fit: cover;
+}
+
+.card {
+   height: 60vh;
+}
+/** Comment */
+#comment-box, #post {
+   border: none;
+   border-radius: 5px;
+   border-color: #F1A661
+
+
+;
+}
+.col-lg-3.comment-box {
+   border: 2px solid #333;
+   border-radius: 6px;
+   padding: 10px 20px;
+   background-color: #1C3879;
+}
+.col-lg-3.comment-box h2,ul {
+   color: #fff;
+}
+#post:hover{
+   background-color: #1C3879;
+}
+
+.h1, h2, h3, h4{
+   color: #F1A661
+
+
+;
+}
+
+/* footer */
+.footer{
+   background-color: #1C3879;
+}
